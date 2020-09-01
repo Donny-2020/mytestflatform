@@ -19,5 +19,6 @@ from webauto import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('webauto/',views.webauto)
+    path('webauto/',views.webauto),
+    path('index/',views.index),
 ]

@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.header{
+    height: 80px;
+    background-color: cornflowerblue;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+.counter{
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: cornflowerblue;
+    position: absolute;
+    margin-top: 82px;
+    padding: 10px 10px;
+}
+.app_style{
+    background-color: aqua;
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 40px;
+    color: white;
+
+}
